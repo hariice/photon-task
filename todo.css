@@ -1,0 +1,18 @@
+.post-main-cotainer {
+    width: 600px;
+    background-color: #f7f7f9;
+    padding: 20px;
+    box-shadow: 0 5px 15px;
+    font-family: monospace;
+    border-radius: 15px;
+    margin: 50px auto;
+}
+
+.form-tag {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-radius: 15px;
+}
